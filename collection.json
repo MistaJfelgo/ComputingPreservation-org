@@ -1,0 +1,197 @@
+[
+  {
+    "slug": "ibm-5155",
+    "name": "IBM 5155",
+    "display": "IBM 5155 Portable Personal Computer",
+    "maker": "IBM",
+    "family": "IBM PC",
+    "platform": "DOS / IBM PC compatible",
+    "form": "Portable / luggable",
+    "era": "1980s",
+    "code": "5155",
+    "categories": [
+      "pc",
+      "portable"
+    ],
+    "summary": "IBM\u2019s transportable desktop-class PC, packaged around an integrated display and full-height expansion architecture.",
+    "focus": "Document the chassis, installed adapters, storage configuration, display condition, and any surviving software or transport accessories."
+  },
+  {
+    "slug": "osborne-1",
+    "name": "Osborne 1",
+    "display": "Osborne 1",
+    "maker": "Osborne Computer Corporation",
+    "family": "Osborne",
+    "platform": "CP/M",
+    "form": "Portable / luggable",
+    "era": "Early 1980s",
+    "code": "OSB1",
+    "categories": [
+      "portable"
+    ],
+    "summary": "An early mass-market portable computer built around CP/M, dual floppy drives, and a compact integrated display.",
+    "focus": "Preserve boot media, application disks, drive alignment notes, keyboard condition, and the machine\u2019s distinctive portable enclosure."
+  },
+  {
+    "slug": "panasonic-senior-partner",
+    "name": "Panasonic Senior Partner",
+    "display": "Panasonic Senior Partner",
+    "maker": "Panasonic",
+    "family": "Senior Partner",
+    "platform": "DOS / IBM PC compatible",
+    "form": "Portable / luggable",
+    "era": "1980s",
+    "code": "SR.P",
+    "categories": [
+      "pc",
+      "portable"
+    ],
+    "summary": "A distinctive all-in-one portable PC compatible from Panasonic, combining the system, display, and peripherals into one transportable package.",
+    "focus": "Record the installed options, internal cabling, display and drive behavior, integrated peripherals, and any Panasonic-specific documentation."
+  },
+  {
+    "slug": "compaq-portable-ii",
+    "name": "Compaq Portable II",
+    "display": "Compaq Portable II",
+    "maker": "Compaq",
+    "family": "Portable",
+    "platform": "DOS / IBM PC compatible",
+    "form": "Portable / luggable",
+    "era": "Mid-1980s",
+    "code": "CPII",
+    "categories": [
+      "pc",
+      "portable"
+    ],
+    "summary": "A second-generation Compaq portable that carried desktop PC compatibility into a more refined transportable system.",
+    "focus": "Inventory expansion cards, storage, memory, display condition, BIOS behavior, and any Compaq diagnostics or setup media."
+  },
+  {
+    "slug": "tandy-1000-tl",
+    "name": "Tandy 1000 TL",
+    "display": "Tandy 1000 TL",
+    "maker": "Tandy / RadioShack",
+    "family": "Tandy 1000",
+    "platform": "DOS / Tandy-compatible PC",
+    "form": "Desktop",
+    "era": "Late 1980s",
+    "code": "1000TL",
+    "categories": [
+      "pc"
+    ],
+    "summary": "A member of Tandy\u2019s 1000 family, known for its approachable home-computing design and enhanced graphics and sound compatibility.",
+    "focus": "Catalog the motherboard revision, memory, storage, audio and video behavior, keyboard, software bundle, and expansion hardware."
+  },
+  {
+    "slug": "commodore-vic-20",
+    "name": "Commodore VIC-20",
+    "display": "Commodore VIC-20",
+    "maker": "Commodore",
+    "family": "VIC",
+    "platform": "Commodore 8-bit",
+    "form": "Home computer",
+    "era": "Early 1980s",
+    "code": "VIC20",
+    "categories": [
+      "commodore"
+    ],
+    "summary": "Commodore\u2019s approachable early home computer, centered on cartridge software, cassette or disk storage, and direct television output.",
+    "focus": "Preserve power-supply details, video output, keyboard and cartridge condition, peripheral compatibility, and software media."
+  },
+  {
+    "slug": "commodore-64",
+    "name": "Commodore 64",
+    "display": "Commodore 64",
+    "maker": "Commodore",
+    "family": "Commodore 64",
+    "platform": "Commodore 8-bit",
+    "form": "Home computer",
+    "era": "1980s",
+    "code": "C64",
+    "categories": [
+      "commodore"
+    ],
+    "summary": "The original breadbin-style Commodore 64: a widely used home computer with a deep library of software, peripherals, and music hardware.",
+    "focus": "Record board revision, SID and VIC variants, power supply, video quality, keyboard, serial peripherals, cartridges, and disk images."
+  },
+  {
+    "slug": "commodore-64c",
+    "name": "Commodore 64C",
+    "display": "Commodore 64C",
+    "maker": "Commodore",
+    "family": "Commodore 64",
+    "platform": "Commodore 8-bit",
+    "form": "Home computer",
+    "era": "Late 1980s",
+    "code": "C64C",
+    "categories": [
+      "commodore"
+    ],
+    "summary": "A redesigned Commodore 64 in the later low-profile enclosure, retaining the platform while changing its industrial design and internal revisions.",
+    "focus": "Document case and keyboard condition, board revision, custom chips, power supply, video output, peripherals, and preserved software."
+  },
+  {
+    "slug": "commodore-128",
+    "name": "Commodore 128",
+    "display": "Commodore 128",
+    "maker": "Commodore",
+    "family": "Commodore 128",
+    "platform": "Commodore 8-bit / CP/M",
+    "form": "Home computer",
+    "era": "Mid-1980s",
+    "code": "C128",
+    "categories": [
+      "commodore"
+    ],
+    "summary": "Commodore\u2019s expanded 8-bit system, combining native C128 operation with Commodore 64 compatibility and a CP/M mode.",
+    "focus": "Test each operating mode, document video outputs, inspect memory and custom chips, and preserve compatible disks and peripherals."
+  },
+  {
+    "slug": "amiga-500",
+    "name": "Amiga 500",
+    "display": "Commodore Amiga 500",
+    "maker": "Commodore",
+    "family": "Amiga",
+    "platform": "Amiga",
+    "form": "Home computer",
+    "era": "Late 1980s",
+    "code": "A500",
+    "categories": [
+      "amiga"
+    ],
+    "summary": "The keyboard-integrated Amiga that brought the platform\u2019s graphics, audio, and multitasking environment into a broadly accessible home system.",
+    "focus": "Catalog motherboard and chipset revisions, Kickstart, memory expansions, floppy behavior, video output, peripherals, and disk images."
+  },
+  {
+    "slug": "amiga-1000",
+    "name": "Amiga 1000",
+    "display": "Commodore Amiga 1000",
+    "maker": "Commodore",
+    "family": "Amiga",
+    "platform": "Amiga",
+    "form": "Desktop",
+    "era": "Mid-1980s",
+    "code": "A1000",
+    "categories": [
+      "amiga"
+    ],
+    "summary": "The original Amiga model and the machine that began this preservation journey in 2011.",
+    "focus": "Preserve Kickstart and Workbench media, document motherboard and expansion details, test video and audio, and record the system\u2019s provenance."
+  },
+  {
+    "slug": "epson-apex-100",
+    "name": "Epson Apex 100",
+    "display": "Epson Apex 100",
+    "maker": "Epson",
+    "family": "Apex",
+    "platform": "DOS / IBM PC compatible",
+    "form": "Desktop",
+    "era": "Late 1980s",
+    "code": "APX100",
+    "categories": [
+      "pc"
+    ],
+    "summary": "A compact Epson desktop PC compatible representing the practical, work-focused DOS systems that populated homes and offices.",
+    "focus": "Inventory CPU, memory, storage, display adapter, expansion cards, keyboard, Epson utilities, and surviving software media."
+  }
+]
